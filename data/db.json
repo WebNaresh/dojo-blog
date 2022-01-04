@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "lorem ......",
+      "author": "marybhai",
+      "id": 1
+    },
+    {
+      "title": "My new Website",
+      "body": "lorem ......",
+      "author": "marybhai",
+      "id": 2
+    },
+    {
+      "title": "My new Website",
+      "body": "lorem ......",
+      "author": "marybhai",
+      "id": 3
+    },
+    {
+      "title": "My new Website",
+      "body": "lorem ......",
+      "author": "marybhai",
+      "id": 4
+    },
+    {
+      "title": "My new Website",
+      "body": "lorem ......",
+      "author": "marybhai",
+      "id": 5
+    },
+    {
+      "title": "My new Website",
+      "body": "lorem ......",
+      "author": "marybhai",
+      "id": 6
+    }
+  ]
+}
