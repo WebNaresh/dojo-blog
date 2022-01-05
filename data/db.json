@@ -1,39 +1,21 @@
 {
   "blogs": [
     {
-      "title": "My new Website",
-      "body": "lorem ......",
-      "author": "marybhai",
-      "id": 1
-    },
-    {
-      "title": "My new Website",
-      "body": "lorem ......",
-      "author": "marybhai",
-      "id": 2
-    },
-    {
-      "title": "My new Website",
-      "body": "lorem ......",
-      "author": "marybhai",
-      "id": 3
-    },
-    {
-      "title": "My new Website",
-      "body": "lorem ......",
-      "author": "marybhai",
+      "title": "Hello",
+      "body": "why are you going",
+      "author": "Yoshi",
       "id": 4
     },
     {
-      "title": "My new Website",
-      "body": "lorem ......",
-      "author": "marybhai",
+      "title": "fsa",
+      "body": "fsf",
+      "author": "Mario",
       "id": 5
     },
     {
-      "title": "My new Website",
-      "body": "lorem ......",
-      "author": "marybhai",
+      "title": "Sahil",
+      "body": "sahil hanamant barge",
+      "author": "Yoshi",
       "id": 6
     }
   ]
